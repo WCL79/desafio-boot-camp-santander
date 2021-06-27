@@ -19,7 +19,7 @@ public class SwaggerConfig {
     private static final String API_TITLE = "API Ponto Eletrônico";
     private static final String API_DESCRIPTION = "REST API registro de ponto";
     private static final String CONTACT_NAME = "Weslley Lima";
-    private static final String CONTACT_GITHUB = "https://github.com/WCL79/desafio-teste-dio-beer";
+    private static final String CONTACT_GITHUB = "https://github.com/WCL79/desafio-boot-camp-santander";
     private static final String CONTACT_EMAIL = "weslleyclima@yahoo.com.br";
 
     @Bean
